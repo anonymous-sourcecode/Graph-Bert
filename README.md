@@ -8,7 +8,7 @@ Please check the script.py as the entry point. Several toolkits may be needed to
 (2) sklearn
 (3) transformers
 (4) networkx
-
+We suggest to run the code with Pycharm. 
 
 ************************************************************************************************
 
